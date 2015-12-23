@@ -36,7 +36,7 @@ A microphone picks up the music playing in the background with the LED strips at
 
 
 ## Coolness and Novelty
-	* Sound Reactive Clothes!! That’s pretty cool honestly, and with the right music and dance techniques you would stand out of the crowd.
+* Sound Reactive Clothes That’s pretty cool honestly, and with the right music and dance techniques you would stand out of the crowd.
 
 ## Circuit Diagrams
 
@@ -46,7 +46,7 @@ A microphone picks up the music playing in the background with the LED strips at
 * **Digital** - LED’s connected to pin D6
 
 ## Libraries Used
-
+g
 * Adafruit_NeoPixel.h (https://github.com/adafruit/Adafruit_NeoPixel)
 * math.h
 
