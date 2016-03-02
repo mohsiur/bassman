@@ -61,6 +61,10 @@ A couple of challenges arose during the project
 
 ![Final Design](/img/final_design.png)
 
+## Videos
+
+[Demo of video](https://www.youtube.com/watch?v=A1DoPsuxhUY)
+
 ## Contributors
 
 * Mohsiur Rahman
