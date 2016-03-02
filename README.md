@@ -46,7 +46,7 @@ A microphone picks up the music playing in the background with the LED strips at
 * **Digital** - LED’s connected to pin D6
 
 ## Libraries Used
-g
+
 * Adafruit_NeoPixel.h (https://github.com/adafruit/Adafruit_NeoPixel)
 * math.h
 
